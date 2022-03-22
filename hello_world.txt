@@ -1,0 +1,8 @@
+Hello,
+
+This will only be used on learning purposes; 
+I had used git some times ago, but why not refresh my knowledges? 
+
+Will try webdev from now on, learning from Odin Project!
+
+Thanks to them.
